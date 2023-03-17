@@ -1,2 +1,2 @@
-# Offre_Demande_comp-tences_Informatiques
+# Offre_Demande_competences_Informatiques
 Projet de fin de stage Big Data
